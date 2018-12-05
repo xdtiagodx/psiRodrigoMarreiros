@@ -12,10 +12,10 @@
 		echo "<br>".$i."*".$valor."=".$resultado;
 	}
 	if($valor%2==0){
-		echo "<br><br>O número que introduzio é par";
+		echo "<br><br>O número que introduziu é par";
 	}
 	else{
-		echo "<br><br>O número que introduzio é par";
+		echo "<br><br>O número que introduziu é impar";
 	}
 	?>
 </body>
